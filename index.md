@@ -4,6 +4,7 @@
 [Nhan Ngọc Dương]
 
 Xin chào, tôi là **Nhan Ngọc Dương** biệt danh là **Song Mã**. Tôi là một lập trình viên chuyên về ngôn ngử **PHP Framework Laravel**, tôi là người con của đất **Miền Tây** (Vĩnh Long), đó là nơi tôi được sinh ra. Ơ đây có một ngôi trường mà tôi muốn nói đến đó là **trường đại học Cửu Long**. Ở đây có những người bạn đã từng gắn bó với tôi trong suốt một khoảng thời gian dài,....v.v. Không biết nói gì hơn là **"Tôi cảm ơn các bạn"**.
+
 ![Tôi và những người bạn](https://lh3.googleusercontent.com/waMKbeA1zKXUJPG__qx81e3a2ynBfd55EPbK7YeRGPB3P_vDWNNwNYMmITCYEMa4GZ--mmujHh4U-A)
 
 
@@ -19,7 +20,9 @@ Tựu chung lại có thể là ba vấn đề sau:
 Rõ ràng, bạn không viết blog kĩ thuật để chia sẽ những thứ nhăng cuội như tự sự chuyện tình của bạn với gấu, hay báo cáo cho dân mạng biết hôm nay bạn buồn như thế nào vì trời nó mãi không chịu nắng.
 
 Bạn viết blog kĩ thuật là để chia sẽ kiến thức, hiểu biết của mình cho những người chưa biết.
+
 ![Hinh 1](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/blog.png_hseg56nwmw)
+
 Nếu chưa hình dung ra được, thì hãy nhớ lại những đêm thức trắng tìm đồ án mẫu, vì đã ngâm cả tháng trời không chịu làm mà mai là phải nộp rồi :)) Bạn sẽ cảm thấy biết ơn những anh hùng vô danh đã đưa lên mạng mọi thứ bạn cần, cứu giúp bạn qua khỏi cuộc đời sinh viên ăn chơi bạt mạng... Oan oan tương báo. Đã đến lúc bạn phải làm điều tương tự cho lớp hậu sinh.
 ## Giúp mình
 ### Năm vững kiến thức
