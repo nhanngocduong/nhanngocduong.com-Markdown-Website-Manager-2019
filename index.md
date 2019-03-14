@@ -1,6 +1,8 @@
 # Xin chào các bạn đến với Bloger của Song Mã
 ![Nhan Ngọc Dương](https://lh3.googleusercontent.com/OJjNgpzUI4cgHZLrAvJLj47j0etYmZvFrYpd5Q_8A48xXSKsYybB01EZS29lUwjn2ltUnShkLVVtTA)
+
 [Nhan Ngọc Dương]
+
 Xin chào, tôi là **Nhan Ngọc Dương** biệt danh là **Song Mã**. Tôi là một lập trình viên chuyên về ngôn ngử **PHP Framework Laravel**, tôi là người con của đất **Miền Tây** (Vĩnh Long), đó là nơi tôi được sinh ra. Ơ đây có một ngôi trường mà tôi muốn nói đến đó là **trường đại học Cửu Long**. Ở đây có những người bạn đã từng gắn bó với tôi trong suốt một khoảng thời gian dài,....v.v. Không biết nói gì hơn là **"Tôi cảm ơn các bạn"**.
 ![Tôi và những người bạn](https://lh3.googleusercontent.com/waMKbeA1zKXUJPG__qx81e3a2ynBfd55EPbK7YeRGPB3P_vDWNNwNYMmITCYEMa4GZ--mmujHh4U-A)
 
@@ -52,7 +54,9 @@ Trong bài viết này, mình sẽ chia sẽ với các bạn kinh nghiệm vi�
 ## Bước 0: Đọc
 
 Để viết được một bài viết về kĩ thuật, việc đầu tiên là bạn cần phải hiểu rõ vấn đề đó, nếu không sẽ nhận phải một lượng gạch đá khá lớn, và bài viết sẽ chẳng hề có một giá trị gì.
+
 ![Hinh 2](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/online-research.png_466oszfw40)
+
 Hãy tìm cách đọc thật nhiều bài viết về vấn đề mình sắp viết, phân tích ưu nhược điểm của nó cho đến khi bạn đủ tự tin để qua bước tiếp theo.
 ## Bước 1: Lập dàn ý
 
@@ -62,6 +66,7 @@ Hồi xưa đi học hẳn ai cũng đã học qua môn  _Tập làm văn_, và 
 Mãi sau này, khi tham gia viết lách, dần dần mình nhận ra, dàn ý là một công cụ hết sức hữu hiệu. Bạn hoàn toàn có thể viết một bài blog/bài báo mà không cần đến dàn ý, nếu khả năng kiểm soát nội dung của bạn tốt, còn không, chính bạn khi đọc lại bài viết sẽ không hiểu mình đang viết về cái gì, chứ đừng nói đến độc giả =))
 
 ![Hinh3](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/dany.jpg_xclxlreozi)
+
 Đầu tiên, bạn cần chuẩn bị:
 
 -   Một phần mềm soạn thảo, nếu thích có thể dùng  _Sublime_,  _Atom_  hoặc  _Evernote_,  _Medium_  cũng là một sự lựa chọn vì nó có giao diện rất gọn gàng.
@@ -70,10 +75,13 @@ Mãi sau này, khi tham gia viết lách, dần dần mình nhận ra, dàn ý l
 Để lập dàn ý, chúng ta có 2 cách:  **Viết**  hoặc  **Vẽ**
 
 Đây là cách lập dàn ý bằng cách viết:
+
 ![Hinh 4](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/lapdany.png_5518pfc01x)
 
 Còn đây là cách mình thường dùng để lập dàn ý, đó là vẽ phác thảo ý tưởng ra sổ tay:
+
 ![Hinh 5](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/FullSizeRender.jpg_3gzizryhcl)
+
 Đây là bước mà bạn cần hệ thống hoá nội dung mình sẽ viết, sau khi đã có dàn bài một cách khái quát, bạn có thể đi sâu vào một vài gạch đầu dòng nhỏ hơn để triển khai ý tưởng cho từng nội dung.
 ## Bước 2: Viết
 
@@ -84,6 +92,7 @@ Nếu đã lập dàn bài một cách chi tiết ở bước 1, thì đến bư
 Điều quan trọng ở bước này là phải trình bày nội dung một cách ngắn gọn, dễ hiểu, không nên viết dông dài.
 
 Bước này chúng ta không cần quan tâm tới việc trình bày nội dung, cứ viết thả cửa. Nếu dùng các text editor như Sublime hay Atom, các bạn có thể chọn cách viết bằng Markdown (sau đó dùng các tool để convert ra HTML sau). Việc bố trí không gian làm việc trên text editor yêu thích cũng là một cách kích thích khả năng viết. Hình bên dưới là không gian làm việc của mình khi viết bài cho Kipalog bằng Markdown :D
+
 ![Hinh 6](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/writing.png_r3o76ehd0v)
 
 Văn phong cũng là một yếu tố quan trọng, phong cách viết bài, cách dùng từ sẽ là thương hiệu của bạn. Mình thích cách viết dân dã, không trịnh trọng, giống như đang đối thoại trực tiếp với độc giả. Mặc dù với những người khó tính sẽ cho đó là không tôn trọng người đọc, nhưng theo mình, cách viết này sẽ giúp cho người đọc nắm bắt vấn đề một cách dễ dàng hơn là những ngôn ngữ như sách giáo khoa.
@@ -108,6 +117,7 @@ Việc lựa chọn hình minh hoạ cũng khá quan trọng. Nên lựa các h�
 Nếu có khả năng vẽ, tự vẽ hình minh hoạ cũng sẽ tạo được ấn tượng cho người đọc về blog của bạn.
 
 ![Hinh 8](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/hinhminhoa.png_eefsmt82vz)
+
 Chèn nhiều hình sẽ làm cho bài viết rõ ràng hơn. Chèn quá nhiều hình thì sẽ làm cho bài viết trở nên lộn xộn hơn. Bao nhiêu là đủ? Đây là cả một môn nghệ thuật :))
 
 Syntax highlight cho code cũng khá quan trọng, tránh làm người đọc khó chịu vì không phân biệt được đâu là code, đâu là nội dung bài viết.
@@ -119,6 +129,7 @@ Syntax highlight cho code cũng khá quan trọng, tránh làm người đọc k
 Cuối cùng, để viết được một bài viết có chất lượng, bạn phải có một cấu trúc nội dung logic, giọng văn không quá khô cứng, hình ảnh minh hoạ trực quan, và trình bày bài viết một cách tỉ mỉ.
 
 Hãy đọc lại bài viết của mình nhiều lần trước khi nhấn nút  **Publish**
+
 ![Hinh 9](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/publish.jpg_f67tekvshq)
 
 Happy blogging ^^
